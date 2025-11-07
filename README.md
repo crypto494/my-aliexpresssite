@@ -103,3 +103,5 @@
 
 </body>
 </html>
+<img src="images/product.jpg" alt="محصول" width="300">
+<a href="https://example.com/buy" target="_blank">خرید</a>
